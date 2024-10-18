@@ -33,3 +33,5 @@ A simple Android application that displays repositories for a specific GitHub us
 
    ```bash
    git clone https://github.com/your-repo-name.git
+   <img width="200" alt="image" src="https://github.com/user-attachments/assets/472a3615-0e73-4ad7-9cc1-eb30b775ad01">
+
